@@ -32,7 +32,7 @@ namespace inverted_triangle_pattern
 
             catch
             {
-                Console.WriteLine("Exception occured while computing Intersect()");
+                Console.WriteLine("Exception occured");
 
 
             }   // End of catch
